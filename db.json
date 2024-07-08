@@ -1,0 +1,24 @@
+{
+  "module": [
+    {
+      "reference": "Narimen",
+      "nom": "spring",
+      "coef": "5",
+      "nbHeures": 1,
+      "id": 1
+    },
+    {
+      "reference": "NarimenAzzouz3A46",
+      "nom": "Spring",
+      "coef": "7",
+      "nbHeures": 12,
+      "id": 2
+    },
+    {
+      "id": 3
+    },
+    {
+      "id": 4
+    }
+  ]
+}
